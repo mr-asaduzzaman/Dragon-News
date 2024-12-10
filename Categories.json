@@ -1,0 +1,34 @@
+[
+    {
+        "category_id": "01",
+        "category_name": "ব্রেকিং নিউজ"
+    },
+    {
+        "category_id": "02",
+        "category_name": "নিয়মিত সংবাদ"
+    },
+    {
+        "category_id": "03",
+        "category_name": "আন্তর্জাতিক সংবাদ"
+    },
+    {
+        "category_id": "04",
+        "category_name": "খেলাধুলা"
+    },
+    {
+        "category_id": "05",
+        "category_name": "বিনোদন"
+    },
+    {
+        "category_id": "06",
+        "category_name": "সংস্কৃতি"
+    },
+    {
+        "category_id": "07",
+        "category_name": "কলা"
+    },
+    {
+        "category_id": "08",
+        "category_name": "সব খবর"
+    }
+]

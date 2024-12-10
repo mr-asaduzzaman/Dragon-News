@@ -13,11 +13,10 @@ const LeftNavbar = () => {
 
     return (
         <div>
-            <h1 className="font-bold">Categories ({categories.length})</h1>
-            <div className="flex flex-col gap-1 mt-5">
+            <div className="flex justify-around gap-1 mt-5">
                 {
                     categories.map(category => 
-                    <NavLink to={`/category/${category.category_id}`} className="btn bg-white btn-outline flex justify-start" key={category.category_id}>{category.category_name}</NavLink>)
+                    <NavLink to={`/category/${category.category_id}`} className="btn bg-white flex justify-start" key={category.category_id}>{category.category_name}</NavLink>)
                 }
             </div>
         </div>
